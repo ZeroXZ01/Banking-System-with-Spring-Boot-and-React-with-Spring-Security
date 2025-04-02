@@ -2,12 +2,10 @@ package com.roland.training.model;
 
 import com.roland.training.exception.InsufficientFundsException;
 import jakarta.persistence.*;
-import lombok.Data;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
-@Data
 @Entity
 @Table(name = "accounts")
 @Inheritance(strategy = InheritanceType.SINGLE_TABLE)
