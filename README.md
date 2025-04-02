@@ -24,9 +24,6 @@ This project is an **ongoing migration** of a legacy banking system built with J
 🚧 **Migration in Progress** 🚧  
 The backend services are being refactored into Spring Boot, and the frontend is being built with React.
 
-## How to Contribute
-If you're interested in this migration or have suggestions, feel free to contribute!
-
 ---
 _Last Updated: [April 2025]_
 
